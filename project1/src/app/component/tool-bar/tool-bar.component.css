@@ -1,0 +1,12 @@
+.nav{
+    
+justify-content: space-between;
+background-color: rgb(28, 12, 91);
+
+}
+
+a{
+    padding-right: 1rem;
+    text-decoration: none;
+    color: white;
+}
