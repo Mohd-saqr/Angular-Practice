@@ -1,0 +1,11 @@
+.fotter{
+    position: absolute;
+    bottom: 0px;
+    margin-top: auto;
+    
+
+    background-color: rgb(28, 12, 91);
+    color: white;
+    
+    /* padding: 10px; */
+}
